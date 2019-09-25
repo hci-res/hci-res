@@ -21,8 +21,8 @@ title: HCI RES
 # List of links in the navigation bar
 navbar-links:
   #About Me: "aboutme"
-  Proposal: "proposal"
-    - Contract: "contract"
+  Proposal: "proposal.md"
+    - Contract: "contract.md"
  # Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
    # - Learn markdown: "http://www.markdowntutorial.com/"
