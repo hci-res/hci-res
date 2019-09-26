@@ -24,9 +24,11 @@ time renters. These databases also do not provide the resources for students and
 roommates. Many young people use messaging apps such as GroupMe, WhatsApp, or imessage to engage with each other in their 
 housing communities. These chats often get spammed with messages, and as a result many messages don’t actually get read. 
 This increases the chance of missing out on social engagement in the community. According to Push Notification Statistics 
-researched by PushCrew, 73.47% of their users said that they consider push notifications as spam once there were too many 
-notifications. While these real estate databases and messaging apps are useful, they do not completely cater to the needs 
+researched by [Push Crew](https://www.businessofapps.com/marketplace/push-notifications/research/push-notifications-statistics/), 73.47% of their users said that they consider push notifications as spam once there were too many 
+notifications (Figure 1). While these real estate databases and messaging apps are useful, they do not completely cater to the needs 
 of students and young professionals seeking housing.
+
+![Dorm Norms]({{site.baseurl}}/img/push.jpeg){: .center-block :} Figure 1.
 
 ### Idea
 
