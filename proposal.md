@@ -28,7 +28,8 @@ researched by [Push Crew](https://www.businessofapps.com/marketplace/push-notifi
 notifications (Figure 1). While these real estate databases and messaging apps are useful, they do not completely cater to the needs 
 of students and young professionals seeking housing.
 
-![Dorm Norms]({{site.baseurl}}/img/push.jpeg){: .center-block :} Figure 1.
+![Dorm Norms]({{site.baseurl}}/img/push.jpeg){: .center-block :} 
+Photo by [Hacker Noon](https://hackernoon.com/complete-guide-receive-push-notifications-in-react-native-ios-app-38b1ec5b1b15). (Figure 1).
 
 ### Idea
 
