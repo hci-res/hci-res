@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: HCI RES
+title: RES
 
 # Short description of your site
 #description: A virtual proof that I'm awesome
@@ -23,7 +23,7 @@ navbar-links:
   #About Me: "aboutme"
   Proposal: 
     - Group Proposal: "proposal"
-    - Group Contract: "contract"
+    - Team Contract: "contract"
     - Inspired By: "https://22hh8.github.io/myproject/"
   Team: 
   - Nyla: "https://nylaivy.github.io/hci/"
@@ -46,7 +46,7 @@ avatar: "/img/res.jpeg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#C0DEF0"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
