@@ -26,7 +26,7 @@ navbar-links:
     - Team Contract: "contract"
     - Inspired By: "https://22hh8.github.io/myproject/"
   Contextual Inquiry: "ciplan"
-    - Reflection: "ci1"
+    - 1st CI Reflection: "ci1"
   Team: 
   - Nyla: "https://nylaivy.github.io/hci/"
   - Gavin: "https://gavinlili.github.io"
