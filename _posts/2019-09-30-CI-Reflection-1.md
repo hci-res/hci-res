@@ -50,7 +50,7 @@ and the student I completed the contextual inquiry on.
   All of these observations were effective in gaining additional information that I could not obtain from the questions 
   asked in the beginning of the contextual inquiry.
   
-	Overall, the student admitted that information regarding housing as someone planning to live off campus created 
+Overall, the student admitted that information regarding housing as someone planning to live off campus created 
   various difficulties. The contextual inquiry seemed to be successful and I did not encounter difficulties establishing
   rapport or getting the information needed. My team’s plan for our next contextual inquiry is to gain more insight on the
   types of information that a student who lives in a dorm might handle, and learn whether or not they perceive handling this
