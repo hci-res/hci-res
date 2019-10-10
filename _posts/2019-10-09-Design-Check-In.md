@@ -69,7 +69,15 @@ We want to create a reporting system on our mobile app where students can notify
 
 ### Tasks: 
 
-This design idea not only accomplishes task #1 of easily getting in contact with housing authorities but also three others. A reporting system on RES accomplishes task #6 by making moving in easier due to the fact that issues in a new living space can be resolved quicker. Also task #4 by making communication of housing feedback more accessible through increased communication. And lastly, the reporting system helps with task #2 since a better feedback system makes it easier for students to reason through logistics regarding housing options, further encouraging the sharing of this information with each other.
+- Getting in contact with housing authorities: This design idea clearly accomplishes this task by allowing students to easily get in contact with housing authorities. The contact information of various types of housing authorities is centralized within this feature of the app. Having this information in one place will be useful for students and allow them to reach out to housing authorities more freely when needed. 
+
+- Getting Information on student housing options: This reporting feature helps with this task because a better feedback system makes it easier for students to reason through logistics regarding housing options, further encouraging the sharing of this information with each other. When students are communicating about their housing problems with housing authorities more, they are thinking about their living experience more often and can therefore articulate it better. This will make communication regarding housing options better among students, allowing for better sharing of housing information.
+
+- Give Feedback on your housing: The design idea accomplishes this task by making communication of housing feedback more accessible through increased communication. When students have more communication regarding issues with housing authorities, this creates more of an opportunity to speak about their living experiences as a whole. While this is an informal method of giving feedback, it is still effective since these conversations are happening with the people who can actually make a difference when it comes to housing experience.
+
+- Moving Into a New Place: A reporting system on RES accomplishes this task by making moving in easier due to the fact that issues in a new living space can be resolved quicker. When students are moving into a new place, everything will not always go smoothly and because they are new, they do not always know who to reach out to. RES Report will help resolve these issues in a timely manner with low stress on the new student acclimating to a new environment and therefore making their move in experience better.
+
+
 
 
 
