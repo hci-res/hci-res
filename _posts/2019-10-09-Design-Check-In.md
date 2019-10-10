@@ -6,6 +6,8 @@ title: Design Check In
 
 ### 1. Getting in contact with housing authorities - Easy  
 
+Lauren is a first year student who constantly asks her JA for help because she doesn’t really know how to contact the housing authorities such as facilities and CSS on her own. She finds the majority of her information on the college website, but a lot of the information seems to be outdated. On the website, there was a lot of profiles about other employees as well, and she didn’t know whether to contact the manager or director of facilities. She once contacted the housing director through the website’s contact information, but it took them a week to get back to her! The process was very slow and frustrating for her. It would be useful for her to know specifically who to contact when she needs the help. 
+
 ### 2. Getting Information on student housing options - Easy
 
 Alex is a 3rd year student who wants to live off campus during their senior year. Alex tries to contact local real estate agents to ask about some of the apartments and houses that current seniors are living in. The real estate agents say that they do not deal with the properties that Alex is interested in but give Alex detailed information about other properties. As Alex looks at this information, they do not understand it and do not know whether the information is sufficient for approval of their request to live off campus by their school. Alex declines the information from the real estate agents and tries to figure out who is living off campus this school year. While they do not know which students these are because they have never met them, they must find a way to get in contact with these seniors to move on in the process of potentially living off campus the following year.
@@ -26,8 +28,12 @@ Lily lives in a large dorm but sees how much fun her neighbors seem to have on t
 
 John is a first year student who has just moved into a dorm room for the first time. He realizes that there are items that he will now need to buy himself after he moved in because he was unsure of whether or not they would be provided. Some of these items include hangers, a desk lamp, and a full length mirror. John even needs to buy special tape, instead of the thumbtacks he brought with him, to hang items on his brick walls. He finds a way to get all the items himself once school has started but he is frustrated. John even decides to write a list of all these items so that he can refer to it before moving in the following year. Although, he is unsure of whether his future dorm rooms will provide the same things because he has heard from others who have lived in dorms that include some of the items he has bought for himself this year.
 
-# Design Idea #1: 
+# Design Idea #1
+
 This will be a mobile app with a visual directory of all the residents’ profiles that lists contact information, a biography, and also what they like and don’t like about the space they are currently living in. There will be a list of all living spaces associated with the colleges’ students (even off campus apartments). The user will be able to pick which building they want to see and the floor plan will give access to the residents’ profiles. 
+
+![Design #1]({{site.baseurl}}/img/design1.jpeg){: .center-block :}  
+
 
 ### Tasks:
 
@@ -40,6 +46,10 @@ This will be a mobile app with a visual directory of all the residents’ profil
 - Moving Into a New Place (Moderate): Having a contact person that is familiar with the area would be useful when moving into a new place. This could help people gage what they need before the whole moving process. Users could contact current residents with questions to ease this transition. Having buildings’ specifications such as the floorplan, amenities, and facilities beforehand helps the user envision their new residency. 
 
 # Design Idea #2
+
+ A feature of our design is connecting people living in the same dorm by sharing events members of the dorm are hosting. Meeting people within the dorm system is especially difficult after the first-year entry system where people no longer gather in common rooms to meet everyone else and everyone picks into dorms with a select friend group. We will implement an event system where people can reserve public spaces in the building such as the common room or the kitchen to host events. These events can also be public so that everyone in the building will be notified of it and is welcome to attend.
+
+![Design #2]({{site.baseurl}}/img/design3.jpeg){: .center-block :}  
 
 ### Tasks:
 
@@ -54,6 +64,8 @@ This will be a mobile app with a visual directory of all the residents’ profil
 # Design Idea #3
 
 We want to create a reporting system on our mobile app where students can notify housing authorities if they have any issues with their housing. These issues can be a range of different housing related problems. An example of a problem that could be reported on RES is a problem regarding the habits of the people that live in the same dorm, such as a specific individual constantly playing loud music at inappropriate hours. Another example is a problem of damage to the dorms themselves, such as a loose door handle shown in the drawing below. Students only have to press the appropriate button on the RES app to immediately notify individuals such as housing coordinators, junior advisors, deans, or facilities to help resolve these issues more quickly. 
+
+![Design #3]({{site.baseurl}}/img/design2.jpeg){: .center-block :}  
 
 ### Tasks: 
 
