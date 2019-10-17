@@ -2,6 +2,9 @@
 layout: page
 title: Project Design Review
 ---
+
+### Why Design 2
+
 We decided to design an app with Event Flares that can notify students of events happening within housing neighborhoods. Students will have the option to create or attend events. If creating an event, a student can fill out a virtual form with the details, decide if it is a public event for all students on campus or a private event for their housing community, then choose an emoji to visually represent the event on a map to notify others. If using our design to look for events to attend, a student will be able to browse their personal map with events that are available to them and check a box that says they are planning to attend. Students will get notifications for updates on events they’ve created, events they plan to attend, and events that are created within their dorm or housing neighborhood. Housing authorities will get similar notifications regarding events occuring in the house that they are a resource for.
 
 This design not only accomplishes the task of creating social spaces within housing communities, but also accomplishes the task of creating better communication with housing authorities who will be more aware of the events occurring within the spaces they are overseeing. Event Flares seem like the perfect way to consolidate social dorm information in a digestible way for both students and the people who keep students safe within their housing communities. The way that this information is displayed on a map with emojis is better suited for students because it is visually appealing/fun whilst solving problems of information overload with social aspects of housing. These two tasks are more compelling than others due to the fact that communication was a constant issue observed through all our contextual inquiries, as well as the lack of social interaction with neighbors.
