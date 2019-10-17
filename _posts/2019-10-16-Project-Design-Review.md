@@ -11,12 +11,12 @@ This design not only accomplishes the task of creating social spaces within hous
 
 
 
-![Storyboard 1]({{site.baseurl}}/img/story pics 1.jpeg){: .center-block :}  
+![Storyboard 1]({{site.baseurl}}/img/story pics 1.jpg){: .center-block :}  
 
 In this storyboard, we follow a user who wants to create a social space as they realize that they have an experience they want to share. Before they host the event flare, they select the neighborhood, house, and specific location within the house they are in. The phone shows a map with the user’s location that can help set things up. After adding in the details about the event, they can add an icon that represents the event and it will be pinned on the map for the intended audience to see. In this story, the ramen night was only for the people in the specific house, so only the house residents get a vibrating push notification on their phone. Then, the users can RSVP accordingly. 
 
 
-![Storyboard 2]({{site.baseurl}}/img/story pics.jpeg){: .center-block :}  
+![Storyboard 2]({{site.baseurl}}/img/story pics.jpg){: .center-block :}  
 
 
 In this storyboard, we follow a user who hosts an event and how that event gets transferred to housing authorities. After the event gets flared, they will get a notification about what event is going on and when it’s happening in case of a safety hazard. The housing coordinator and campus security gets notified, and the security can confirm the event if they think that it is safe. The housing authorities can communicate with each other accordingly. If these authorities believe that it’s a safety hazard, they can supervise the event outside and/or make a note of it. 
