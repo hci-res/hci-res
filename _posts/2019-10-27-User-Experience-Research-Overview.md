@@ -20,12 +20,18 @@ The most common problem that we noticed from our contextual inquiries involved c
 The design will be centered around students, but people heavily involved with students like facilities, and deans will also use the app but as admins instead of regular users who can register for events. Students with roles like junior advisor or housing coordinator will be able to use the app as both admin and regular user. The design will accomplish the tasks of promoting events, providing additional information to housing spaces, and getting students connected with administrative users for housing-related issues. The tasks are commonly learned through word of mouth where people provide others with contact information or information about events happening. The tasks are performed either via face-to-face communication, such as over dinner or in passing, or through communication devices such as a phone text or email. The relationship between the person and the data is that the data is supposed to make housing-related parts of life more convenient and accessible for the user. Besides RES, other tools the person may have are Google, Craigslist, and forms of social media that can be used to communicate and find housing information/events; other people can be considered tools since they can also provide information. Users communicate with administration through individual chat to voice their problems, and their peers through event flares and reading each other’s thoughts on living spaces. The time constraints of the tasks vary on case-by-case basis. If a residential building’s heating stops working during the winter facilities will have a huge time constraint for addressing it whereas a flare for an event next month will have a smaller time constraint. When things go wrong, let’s say an event is seen as potentially dangerous, campus security can watch over the event to ensure everyone is safe.
 
 # Proposed Design Sketches:
+
+![Design #1]({{site.baseurl}}/img/design1.jpeg){: .center-block :}  
+
 - Design #1: This will be a mobile app with a visual directory of all the residents’ profiles that lists contact information, a biography, and also what they like and don’t like about the space they are currently living in. There will be a list of all living spaces associated with the university’s students (even off campus apartments). The user will be able to pick which building they want to see and the floor plan will give access to the residents’ profiles. The residents’ profiles will be fun and interactive by having emojis that describe their interests. 
+
+![Design #2]({{site.baseurl}}/img/design3.jpeg){: .center-block :}  
 
 - Design #2: A feature of our design is connecting people living in the same dorm by sharing events members of the dorm are hosting. Meeting people within the dorm system is especially difficult after the first-year entry system where people no longer gather in common rooms to meet everyone else and everyone picks into dorms with a select friend group. We will implement an event system where people can reserve public spaces in the building such as the common room or the kitchen to host events. These events can also be public so that everyone in the building will be notified of it and is welcome to attend.
 
-- Design #3: We want to create a reporting system on our mobile app where students can notify housing authorities if they have any issues with their housing. These issues can be regarding the habits of the people that live in the same dorm, such as a specific individual constantly playing loud music at inappropriate hours, or a loose door handle. Students only have to press the appropriate button on the RES app to immediately notify individuals such as housing coordinators, junior advisors, deans, or facilities to help resolve these issues more quickly.
+![Design #3]({{site.baseurl}}/img/design2.jpeg){: .center-block :}  
 
+- Design #3: We want to create a reporting system on our mobile app where students can notify housing authorities if they have any issues with their housing. These issues can be regarding the habits of the people that live in the same dorm, such as a specific individual constantly playing loud music at inappropriate hours, or a loose door handle. Students only have to press the appropriate button on the RES app to immediately notify individuals such as housing coordinators, junior advisors, deans, or facilities to help resolve these issues more quickly.
 
 ### Final Design Choice: 
 We decided to design an app with Event Flares that can notify students of events 
@@ -37,9 +43,13 @@ available to them and check a box that says they are planning to attend. Student
 
 # Written Scenarios:
 ### Creating an Event: 
+![Storyboard 1]({{site.baseurl}}/img/story pics 1.jpg){: .center-block :}
+
 In this storyboard, we follow a user who wants to create a social space as they realize that they have an experience they want to share. Before they host the event flare, they select the neighborhood, house, and specific location within the house they are in. The phone shows a map with the user’s location that can help set things up. After adding in the details about the event, they can add an icon that represents the event and it will be pinned on the map for the intended audience to see. In this story, the ramen night was only for the people in the specific house, so only the house residents get a vibrating push notification on their phone. Then, users can RSVP accordingly.
 
 #### Keeping Housing Authorities Informed: 
+![Storyboard 2]({{site.baseurl}}/img/story pics.jpg){: .center-block :}
+
 In this storyboard, we follow a user who hosts an event and how that event gets transferred to housing authorities. After the event gets flared, they will get a notification about what event is going on and when it’s happening in case of a safety hazard. The housing coordinator and campus security get notified, and the security can confirm the event if they think that it is safe. The housing authorities can communicate with each other accordingly. If these authorities believe that it’s a safety hazard, they can supervise the event outside and/or make a note of it.
 
 ### Storyboards: 
