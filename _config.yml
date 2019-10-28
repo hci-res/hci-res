@@ -25,7 +25,12 @@ navbar-links:
     - Team Contract: "contract"
     - Inspired By: "https://22hh8.github.io/myproject/"
   UX Research: 
-    - Plan: "ciplan"
+    - CI Plan: "ciplan"
+    - CI Check In: "2019-09-30-CI-Reflection-1"
+    - CI Review: "2019-10-05-CI-Review"
+    - Task Review: "2019-10-06-Task-Review"
+    - Design Check-In: "2019-10-09-Design-Check-In"
+    - Project Design Review: "2019-10-16-Project-Design-Review"
     
   Team: 
   - Nyla: "https://nylaivy.github.io/hci/"
