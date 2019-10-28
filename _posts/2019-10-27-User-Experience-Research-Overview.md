@@ -51,5 +51,3 @@ In this storyboard, we follow a user who wants to create a social space as they 
 ![Storyboard 2]({{site.baseurl}}/img/story pics.jpg){: .center-block :}
 
 In this storyboard, we follow a user who hosts an event and how that event gets transferred to housing authorities. After the event gets flared, they will get a notification about what event is going on and when it’s happening in case of a safety hazard. The housing coordinator and campus security get notified, and the security can confirm the event if they think that it is safe. The housing authorities can communicate with each other accordingly. If these authorities believe that it’s a safety hazard, they can supervise the event outside and/or make a note of it.
-
-### Storyboards: 
