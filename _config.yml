@@ -20,11 +20,11 @@ title: RES
 
 # List of links in the navigation bar
 navbar-links:
-  Proposal: 
+  Project Proposal: 
     - Group Proposal: "proposal"
     - Team Contract: "contract"
     - Inspired By: "https://22hh8.github.io/myproject/"
-  Contextual Inquiry: 
+  UX Research: 
     - Plan: "ciplan"
     
   Team: 
