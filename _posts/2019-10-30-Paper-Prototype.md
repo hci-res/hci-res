@@ -21,7 +21,7 @@ Once an emoji is clicked on, the user can see the corresponding event name, time
 
 Once the user indicates their response by clicking on the appropriate button, it is highlighted with a corresponding color. If the user clicks “Going” or “interested”, the event will be displayed on their “My Events” page. If the user clicks “Not Going”, the event will be deleted from their personal map and can only be found if searched for.
 
-![Design]({{site.baseurl}}/img/4075.JPG){: .center-block :}  
+![Design]({{site.baseurl}}/img/4075.jpg){: .center-block :}  
 
 The “My Events” page lists the events that the user has indicated as “interested” or “going”. It displays the events according to time. The event’s name, icon, date, time, location, and response are shown. When a user clicks on an event on this page, it shows more information about the event and allows them to edit their responses. This page can also be accessed through the heart icon on the bottom of the application home screen.
 
