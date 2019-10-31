@@ -4,7 +4,7 @@ title: Paper Prototype
 ---
 This is a photo including all the parts of our paper prototype.
 
-Task 1: Browsing and responding to an event
+# Task 1: Browsing and responding to an event
 
 One way of browsing and responding to events is through the map displaying events that are currently happening on campus.
 
