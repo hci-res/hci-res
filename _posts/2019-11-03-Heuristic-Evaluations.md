@@ -9,6 +9,32 @@ Hailey and Nyla facilitated the evaluation for Edwin. Gavin facilitated the eval
 
 ![Heuristic]({{site.baseurl}}/img/table.png){: .center-block :}  
 
+### Images of the Current Problematic Paper Prototype
+
+![Heuristic]({{site.baseurl}}/img/broken 1.jpeg){: .center-block :}  
+
+Error screen only takes into account the proximity of other pins. It doesn’t consider whether or not the events are in the same room/space or time. 
+
+![Heuristic]({{site.baseurl}}/img/broken 2.jpeg){: .center-block :}  
+
+Emojis could be a problem when there are similar events happening or could be completely misleading if someone were to choose something irrelevant. If there are multiple events in one area, the emojis can stack on top of each other which makes it difficult to see the location or event details. 
+
+![Heuristic]({{site.baseurl}}/img/broken 4.jpeg){: .center-block :}  
+
+It was unclear how to create an event and where to put the location. 
+
+![Heuristic]({{site.baseurl}}/img/broken 5.jpeg){: .center-block :}  
+
+Forgot to add a “back” button as well as a “submit” button.
+
+![Heuristic]({{site.baseurl}}/img/broken 7.jpeg){: .center-block :}  
+
+The heart icon doesn’t match with “My Events” in the taskbar.
+
+![Heuristic]({{site.baseurl}}/img/broken 6.jpeg){: .center-block :}  
+
+The location and time filters felt unintuitive as a drop down menu feature. It was confusing how to select the desired times and locations. 
+
 # Revision Explanations
 
 ![Heuristic]({{site.baseurl}}/img/IMG_1591.jpeg){: .center-block :}  
