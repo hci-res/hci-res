@@ -35,6 +35,10 @@ The heart icon doesn’t match with “My Events” in the taskbar.
 
 The location and time filters felt unintuitive as a drop down menu feature. It was confusing how to select the desired times and locations. 
 
+# Revision Overview 
+
+![Heuristic]({{site.baseurl}}/img/IMG_8315.jpeg){: .center-block :}  
+
 # Revision Explanations
 
 ![Heuristic]({{site.baseurl}}/img/IMG_1591.jpeg){: .center-block :}  
