@@ -51,18 +51,18 @@ User was unclear about the first step to take when completing the task of respon
 
 ### Incident 2: 
 
-  ![Heuristic]({{site.baseurl}}/img/IMG_8320.jpg){: .center-block :}  
+  ![Heuristic]({{site.baseurl}}/ig/3.jpeg){: .center-block :}  
 
 User mentioned wanting to go back to the home screen after search results were shown while searching for an event but there is no way to get to this screen from there (only a back button). This positive incident involved the first task given to the user
   - Severity = 3
   
-    ![Heuristic]({{site.baseurl}}/img/IMG_8321.jpg){: .center-block :}  
+    ![Heuristic]({{site.baseurl}}/img/4.jpeg){: .center-block :}  
 
   - Revision: Added a back button to this screen. We also added a menu bar to the bottom of most of our screens will allow access to the home screen at all times
 
 ### Incident 3: 
 
-  ![Heuristic]({{site.baseurl}}/img/IMG_8322.jpg){: .center-block :}  
+  ![Heuristic]({{site.baseurl}}/img/5.jpeg){: .center-block :}  
 
 User knew exactly what to do with our “drop a pin” feature when creating an event
   - This was a concern from our group because the description of instructions when the pin appears after clicking “create an event” is a new feature created due to feedback from a heuristic evaluation
