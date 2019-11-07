@@ -51,7 +51,7 @@ User was unclear about the first step to take when completing the task of respon
 
 ### Incident 2: 
 
-  ![Heuristic]({{site.baseurl}}/ig/3.jpeg){: .center-block :}  
+  ![Heuristic]({{site.baseurl}}/img/3.jpeg){: .center-block :}  
 
 User mentioned wanting to go back to the home screen after search results were shown while searching for an event but there is no way to get to this screen from there (only a back button). This positive incident involved the first task given to the user
   - Severity = 3
