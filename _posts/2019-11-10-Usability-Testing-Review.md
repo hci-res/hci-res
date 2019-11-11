@@ -26,8 +26,15 @@ After completing this usability test, we realized that key revisions need to be 
 
 ![Usability]({{site.baseurl}}/img/test2.png){: .center-block :}  
 
+### Usability Test 3
 
-![Usability]({{site.baseurl}}/img/test3.png){: .center-block :}  
+We conducted our third usability test on a male underclassman of color. He is part of an identity-based affinity group on campus and frequently plans and hosts events for the group. After our second usability test which focuses on a person who attends a lot of events, we wanted to get additional feedback on a person who hosts a lot of events. The usability test was conducted in the participant’s common room which is a convenient location for him. It is also a gathering space for him and his friends from the group. They frequently meet there to do school work, watch movies, and have meetings for their club. Gavin facilitated the usability test and Hailey took notes.
+
+To preface the test, we explained the HCI course and RES. We then gave the user two tasks to accomplish — one is to create a basketball game at x location and the second is to find an event to show “interested” in (one of our event features where the user can indicate they are attending, not attending, or just interested). We instructed the user to voice their thoughts and questions throughout the usability test.
+
+After the test, we realized both features had revisions that needed to be made. More information of these revisions are shown in the table below.
+
+![Usability]({{site.baseurl}}/img/test33.png){: .center-block :}  
 
 # Final Paper Prototype
 
@@ -39,7 +46,7 @@ We made the following revisions:
 
 - Adding the menu bar to most of our screens throughout the app was a pretty significant revision because it not only affects almost every part of our prototype but it also allows the user to access all parts of our app at any moment (regardless of the screen that they are on).
 
-
+- Adding a submit button to the upper right-hand corner of the create event screen since users may get confused about how to access the submit button when they are typing (the keyboard blocks off the bottom screen which is where the submit button currently is).
 Task 1: Creating an Event
 
 ![Usability]({{site.baseurl}}/img/task1.jpeg){: .center-block :}  
