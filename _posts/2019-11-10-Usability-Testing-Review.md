@@ -31,6 +31,8 @@ After completing this usability test, we realized that key revisions need to be 
 
 # Final Paper Prototype
 
+![Usability]({{site.baseurl}}/img/overall.jpeg){: .center-block :}  
+
 We made the following revisions:
 
 - One of our most important revisions done after this usability test was adding the error message if a required field was not completed. The participant was confused because there wasn’t an explicit error message when she tried to submit her event with empty fields. Adding this error message guarantees that a complete event is created and appeared on the map for others to see. Our participant asked what happens if they do not know the details yet. We would want our users to create an event only after full details are known so that other users aren’t confused. 
