@@ -53,17 +53,45 @@ After the user submits information for the event that they have created, they wi
 
 # Task 2: Finding and responding to an event
 
-First, the user goes to the “Search Events” page in the bottom task bar.
+![Search an Event]({{site.baseurl}}/img/Search1.jpg){: .center-block :}  
 
-They are prompted to enter a date, time, and location. The user is able to enter details as specific as they want. 
+First, the user goes to the “Search Events” page in the bottom task bar. They are prompted to enter a date, time, and location. The user is able to enter details as specific as they want. 
+
+![Search an Event]({{site.baseurl}}/img/Search2.2.jpg){: .center-block :}  
+
+The user can select a date on the calendar. 
+
+![Search an Event]({{site.baseurl}}/img/Search3.jpg){: .center-block :}  
+
+The user can select a start time by scrolling through the list of times. 
+
+![Search an Event]({{site.baseurl}}/img/Search4.1.jpg){: .center-block :}  
+
+The user can select a building location of preference. 
+
+![Search an Event]({{site.baseurl}}/img/Search5.jpg){: .center-block :}  
+
+A screen of all the fields filled out will be presented. 
+
+![Search an Event]({{site.baseurl}}/img/Search6.jpg){: .center-block :}  
 
 After the user fills out the details, a list of events that fit the criteria will load onto the page. They can scroll through this comprehensive list to see their choices.
 
+![Search an Event]({{site.baseurl}}/img/Search7.jpg){: .center-block :}  
+
 After finding an interesting event, the user is able to click on the event to find out more details.
+
+![Search an Event]({{site.baseurl}}/img/Search8.jpg){: .center-block :}  
 
 They can respond to the event by selecting “Going”, “Interested”, or “Not going”. 
 
 After the user has indicated the response of choice, they are referred back to the comprehensive list.
+
+![Search an Event]({{site.baseurl}}/img/Events1.jpg){: .center-block :}  
+
+![Search an Event]({{site.baseurl}}/img/Events2.jpg){: .center-block :}  
+
+The user is then able to view the events they have responded as "Going" or "Interested" in the "My Events" page. 
 
 
 
