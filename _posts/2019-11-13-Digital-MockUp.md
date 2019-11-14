@@ -1,5 +1,8 @@
 Below is an overview of all screens that are part of our digital mock up. We used Figma to design the interfaces. These screens will be uploaded to InVision to make them interactive. Overall our digital mockup is consistent with our final paper prototype. The only additional feature added was a pop up indicating an event has been successfully created when users are directed back to the homescreen after completing that task.
 
+![Create an Event]({{site.baseurl}}/img/create.png){: .center-block :}  
+
+
 # Task 1: Creating an event.
 
 ![Create an Event]({{site.baseurl}}/img/Login1.jpg){: .center-block :}  
