@@ -1,50 +1,57 @@
 Below is an overview of all screens that are part of our digital mock up. We used Figma to design the interfaces. These screens will be uploaded to InVision to make them interactive. Overall our digital mockup is consistent with our final paper prototype. The only additional feature added was a pop up indicating an event has been successfully created when users are directed back to the homescreen after completing that task.
 
+# Task 1: Creating an event.
 
-Task 1: Creating an event.
+![Create an Event]({{site.baseurl}}/img/Login1.jpg){: .center-block :}  
+![Create an Event]({{site.baseurl}}/img/Login2.jpg){: .center-block :}  
+![Create an Event]({{site.baseurl}}/img/Login3.jpg){: .center-block :}  
 
 First the user logs into the app as a student using their school email address and password. 
 
-Insert image of login screens
+![Create an Event]({{site.baseurl}}/img/Home1.jpg){: .center-block :}  
+![Create an Event]({{site.baseurl}}/img/Home2.jpg){: .center-block :}  
 
 The user is then immediately taken to the homescreen of the interactive emoji map, and can click on “Create Event” on the menu bar near the bottom of the screen
 
-Insert image of homescreen
+![Create an Event]({{site.baseurl}}/img/Create1.jpg){: .center-block :}  
+![Create an Event]({{site.baseurl}}/img/Create1.3_.jpg){: .center-block :}  
 
 The user is then prompted to drag and drop a pin on the map to indicate the desired location of the event that they will be creating.
 
-Insert image of drop a pin screen
+![Create an Event]({{site.baseurl}}/img/Create2.jpg){: .center-block :}  
 
 Once the user drops a pin, a screen in which they can input and submit information regarding the event pops up. 
 
-Insert image of create event page
+![Create an Event]({{site.baseurl}}/img/Create2.3.jpg){: .center-block :}  
 
 The user can type in the event name
 
-Insert “pizza & movie night” screens
+![Create an Event]({{site.baseurl}}/img/Create3.2.jpg){: .center-block :}  
 
 The user can use the calendar to input the desired date of the event.
 
-Insert calendar screens
+![Create an Event]({{site.baseurl}}/img/Create4.jpg){: .center-block :}  
+![Create an Event]({{site.baseurl}}/img/Create5.2.jpg){: .center-block :}  
 
 The user can insert the time by scrolling through the pop up screen once the appropriate text field is pressed
 
-Insert time screens
+![Create an Event]({{site.baseurl}}/img/Create6.1.jpg){: .center-block :}  
 
 They can then specify more specifically the location of the event, such as a specific room, based on the pin that they dropped earlier specifying the building.
 
-Insert screen specifying room
+![Create an Event]({{site.baseurl}}/img/Create8.jpg){: .center-block :}  
 
 And lastly, the user can choose an emoji to represent their event on the RES map before proceeding to submit the event that they are creating by clicking on the “Submit event” button.
 
-Insert add emoji screens
+![Create an Event]({{site.baseurl}}/img/Create10.1.jpg){: .center-block :}  
+
+If the user does not input a required field, they will be sent an error message. 
+
+![Create an Event]({{site.baseurl}}/img/Create9.jpg){: .center-block :}  
 
 After the user submits information for the event that they have created, they will see a pop up indicating that the event has been successfully made and be prompted to return to the home screen. 
 
-Insert homescreen with pop up
-
-
-Task 2: Finding and responding to an event
+# Task 2: Finding and responding to an event
 
 First, the user goes to the “Search Events” page in the bottom task bar.
 
