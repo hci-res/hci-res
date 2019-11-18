@@ -62,20 +62,10 @@ After the user submits information for the event that they have created, they wi
 First, the user goes to the “Search Events” page in the bottom task bar. They are prompted to enter a date, time, and location. The user is able to enter details as specific as they want. 
 
 ![Search an Event]({{site.baseurl}}/img/Search2.2.jpg){: .center-block :}  
-
-The user can select a date on the calendar. 
-
 ![Search an Event]({{site.baseurl}}/img/Search3.jpg){: .center-block :}  
-
-The user can select a start time by scrolling through the list of times. 
-
 ![Search an Event]({{site.baseurl}}/img/Search4.1.jpg){: .center-block :}  
 
-The user can select a building location of preference. 
-
-![Search an Event]({{site.baseurl}}/img/Search5.jpg){: .center-block :}  
-
-A screen of all the fields filled out will be presented. 
+The user can select a date on the calendar, select a start time by scrolling through the list of times, and select a building location of preference. 
 
 ![Search an Event]({{site.baseurl}}/img/Search6.jpg){: .center-block :}  
 
