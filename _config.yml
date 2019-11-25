@@ -20,6 +20,8 @@ title: RES
 
 # List of links in the navigation bar
 navbar-links:
+  Appendix: "appendix" 
+  
   Project Proposal: 
     - Group Proposal: "proposal"
     - Team Contract: "contract"
