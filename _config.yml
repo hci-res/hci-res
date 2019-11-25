@@ -33,7 +33,13 @@ navbar-links:
     - Task Review: "_posts/2019-10-06-Task-Review"
     - Design Check-In: "_posts/2019-10-09-Design-Check-In"
     - Project Design Review: "_posts/2019-10-16-Project-Design-Review"
-    
+    - UX Research Overview: "_posts/2019-10-27-User-Experience-Research-Overview.md"
+  UX Design:
+    - Paper Prototype: "_posts/2019-10-30-Paper-Prototype.md"
+    - Heuristic Evaluations: "_posts/2019-11-03-Heuristic-Evaluations.md"
+    - Usability Testing: "_posts/2019-11-10-Usability-Testing-Review.md"
+    - Digital Mockup: "_posts/2019-11-13-Digital-MockUp.md"
+    - Design Overview: "_posts/2019-11-17-UX-Design.md"
   Team: 
   - Nyla: "https://nylaivy.github.io/hci/"
   - Gavin: "https://gavinlili.github.io"
