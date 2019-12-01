@@ -4,7 +4,7 @@ title: Appendix
 ---
 
 ### Project Proposal: 
-1. [Group Propsal](hci-res.github.io/proposal)
+1. [Group Propsal](https://hci-res.github.io/proposal)
 2. [Team Contract](https://hci-res.github.io/contract/)
 
 ### UX Research: 
